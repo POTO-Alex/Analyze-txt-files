@@ -1,0 +1,375 @@
+quod appears 11 times in the text file.
+equidem appears 2 times in the text file.
+non appears 12 times in the text file.
+reprehendo appears once in the text file.
+lorem appears once in the text file.
+ipsum appears 4 times in the text file.
+dolor appears 2 times in the text file.
+sit appears 3 times in the text file.
+amet appears once in the text file.
+consectetur appears once in the text file.
+adipiscing appears once in the text file.
+elit appears once in the text file.
+quibus appears once in the text file.
+natura appears 3 times in the text file.
+iure appears once in the text file.
+responderit appears once in the text file.
+esse appears 9 times in the text file.
+verum appears 3 times in the text file.
+aliunde appears once in the text file.
+finem appears once in the text file.
+beate appears 2 times in the text file.
+vivendi appears once in the text file.
+a appears 7 times in the text file.
+se appears 3 times in the text file.
+principia appears once in the text file.
+rei appears once in the text file.
+gerendae appears once in the text file.
+peti appears once in the text file.
+quae appears 5 times in the text file.
+enim appears 5 times in the text file.
+adhuc appears once in the text file.
+protulisti appears once in the text file.
+popularia appears once in the text file.
+sunt appears 3 times in the text file.
+ego appears once in the text file.
+autem appears 4 times in the text file.
+te appears 4 times in the text file.
+elegantiora appears once in the text file.
+desidero appears once in the text file.
+duo appears once in the text file.
+reges appears once in the text file.
+constructio appears once in the text file.
+interrete appears once in the text file.
+tum appears once in the text file.
+lucius appears once in the text file.
+mihi appears 5 times in the text file.
+vero appears 3 times in the text file.
+ista appears 2 times in the text file.
+valde appears once in the text file.
+probata appears once in the text file.
+item appears once in the text file.
+fratri appears once in the text file.
+puto appears 2 times in the text file.
+bestiarum appears once in the text file.
+nullum appears once in the text file.
+iudicium appears once in the text file.
+nihil appears 4 times in the text file.
+iam appears 2 times in the text file.
+habes appears once in the text file.
+ad appears 5 times in the text file.
+corpus appears once in the text file.
+referas appears once in the text file.
+deinde appears 2 times in the text file.
+prima appears once in the text file.
+illa appears 2 times in the text file.
+in appears 5 times in the text file.
+congressu appears once in the text file.
+solemus appears once in the text file.
+quid appears 3 times in the text file.
+tu appears 3 times in the text file.
+inquit appears once in the text file.
+huc appears once in the text file.
+et appears 6 times in the text file.
+homini appears once in the text file.
+qui appears 3 times in the text file.
+ceteris appears once in the text file.
+animantibus appears once in the text file.
+plurimum appears once in the text file.
+praestat appears once in the text file.
+praecipue appears once in the text file.
+datum appears once in the text file.
+dicemus appears once in the text file.
+id appears 2 times in the text file.
+absurdum appears once in the text file.
+maximum appears once in the text file.
+malum appears once in the text file.
+neglegi appears once in the text file.
+ea appears 2 times in the text file.
+occurrentia appears once in the text file.
+fingunt appears once in the text file.
+vincunt appears once in the text file.
+aristonem appears once in the text file.
+atqui appears once in the text file.
+perspicuum appears once in the text file.
+est appears 8 times in the text file.
+hominem appears once in the text file.
+e appears 2 times in the text file.
+corpore appears once in the text file.
+animoque appears once in the text file.
+constare appears once in the text file.
+cum appears 8 times in the text file.
+primae appears 2 times in the text file.
+sint appears once in the text file.
+animi appears once in the text file.
+partes appears once in the text file.
+secundae appears once in the text file.
+corporis appears once in the text file.
+fieri appears once in the text file.
+inquam appears 2 times in the text file.
+triari appears once in the text file.
+nullo appears once in the text file.
+pacto appears once in the text file.
+potest appears 3 times in the text file.
+ut appears 6 times in the text file.
+dicas appears 2 times in the text file.
+probes appears once in the text file.
+eius appears 2 times in the text file.
+quo appears once in the text file.
+dissentias appears once in the text file.
+cn appears once in the text file.
+an appears 2 times in the text file.
+dubium appears once in the text file.
+quin appears once in the text file.
+virtus appears 2 times in the text file.
+ita appears 6 times in the text file.
+maximam appears once in the text file.
+partem appears once in the text file.
+optineat appears once in the text file.
+rebus appears 3 times in the text file.
+humanis appears once in the text file.
+reliquas appears once in the text file.
+obruat appears once in the text file.
+quis appears once in the text file.
+istum appears once in the text file.
+dolorem appears once in the text file.
+timet appears once in the text file.
+summus appears once in the text file.
+plures appears once in the text file.
+dies appears once in the text file.
+manere appears once in the text file.
+dicet appears once in the text file.
+pro appears once in the text file.
+me appears 2 times in the text file.
+ipsa appears 3 times in the text file.
+nec appears 2 times in the text file.
+dubitabit appears once in the text file.
+isti appears once in the text file.
+vestro appears once in the text file.
+beato appears once in the text file.
+m appears 2 times in the text file.
+tubulum appears once in the text file.
+fuisse appears 2 times in the text file.
+qua appears once in the text file.
+illum appears once in the text file.
+cuius appears 2 times in the text file.
+is appears once in the text file.
+condemnatus appears once in the text file.
+rogatione appears once in the text file.
+p appears once in the text file.
+si appears 5 times in the text file.
+cur appears once in the text file.
+opera appears once in the text file.
+philosophiae appears once in the text file.
+danda appears once in the text file.
+nescio appears once in the text file.
+ex appears once in the text file.
+eorum appears once in the text file.
+scriptis appears once in the text file.
+institutis appears once in the text file.
+omnis appears 2 times in the text file.
+doctrina appears once in the text file.
+liberalis appears once in the text file.
+historia appears once in the text file.
+sequitur appears once in the text file.
+velle appears once in the text file.
+video appears once in the text file.
+omnes appears once in the text file.
+semper appears once in the text file.
+beatos appears once in the text file.
+sapientes appears 2 times in the text file.
+fertur appears once in the text file.
+quasi appears once in the text file.
+torrens appears once in the text file.
+oratio appears once in the text file.
+quamvis appears once in the text file.
+multa appears once in the text file.
+cuiusque appears once in the text file.
+modi appears once in the text file.
+rapiat appears once in the text file.
+tamen appears 2 times in the text file.
+teneas appears once in the text file.
+apprehendas appears once in the text file.
+nusquam appears once in the text file.
+orationem appears once in the text file.
+rapidam appears once in the text file.
+coerceas appears once in the text file.
+redarguitur appears once in the text file.
+ipse appears once in the text file.
+sese appears once in the text file.
+convincunturque appears once in the text file.
+scripta appears once in the text file.
+probitate appears once in the text file.
+ipsius appears once in the text file.
+ac appears once in the text file.
+moribus appears once in the text file.
+at appears 2 times in the text file.
+quanta appears once in the text file.
+conantur appears once in the text file.
+mundum appears once in the text file.
+hunc appears once in the text file.
+omnem appears once in the text file.
+oppidum appears once in the text file.
+nostrum appears once in the text file.
+incendi appears once in the text file.
+igitur appears 2 times in the text file.
+eos appears once in the text file.
+audiunt appears once in the text file.
+vides appears once in the text file.
+vide appears once in the text file.
+ne appears 3 times in the text file.
+magis appears once in the text file.
+tuum appears once in the text file.
+fuerit appears once in the text file.
+re appears once in the text file.
+idem appears once in the text file.
+tibi appears once in the text file.
+videretur appears once in the text file.
+nova appears once in the text file.
+nomina appears once in the text file.
+inponere appears once in the text file.
+vere appears once in the text file.
+falsone appears once in the text file.
+quaerere appears once in the text file.
+mittimus appears once in the text file.
+dicitur appears 2 times in the text file.
+oculis appears once in the text file.
+privasse appears once in the text file.
+mala appears once in the text file.
+incidere appears once in the text file.
+sapiens appears once in the text file.
+sapientem appears once in the text file.
+vivendum appears once in the text file.
+satis appears once in the text file.
+vitem appears once in the text file.
+sensus appears once in the text file.
+accesserit appears once in the text file.
+appetitum appears once in the text file.
+quendam appears once in the text file.
+habeat appears once in the text file.
+per appears once in the text file.
+moveatur appears once in the text file.
+facturam appears once in the text file.
+putas appears once in the text file.
+quem appears once in the text file.
+tenueris appears once in the text file.
+modo appears 3 times in the text file.
+meum appears once in the text file.
+ciceronem appears once in the text file.
+sed appears 5 times in the text file.
+etiam appears 2 times in the text file.
+abducas appears once in the text file.
+licebit appears once in the text file.
+stulti appears once in the text file.
+malorum appears once in the text file.
+memoria appears once in the text file.
+torquentur appears once in the text file.
+bona appears once in the text file.
+praeterita appears once in the text file.
+grata appears once in the text file.
+recordatione appears once in the text file.
+renovata appears once in the text file.
+delectant appears once in the text file.
+quam appears 3 times in the text file.
+vellet appears once in the text file.
+iniquus appears once in the text file.
+iustus appears once in the text file.
+poterat appears once in the text file.
+inpune appears once in the text file.
+suae appears once in the text file.
+institutionis appears once in the text file.
+oblita appears once in the text file.
+de appears once in the text file.
+grandioribus appears once in the text file.
+ipsae appears once in the text file.
+res appears once in the text file.
+verba appears once in the text file.
+rapiunt appears once in the text file.
+hoc appears 3 times in the text file.
+cor appears once in the text file.
+habere appears once in the text file.
+palatum appears once in the text file.
+quidem appears 4 times in the text file.
+voluptatem appears once in the text file.
+summum appears once in the text file.
+bonum appears once in the text file.
+diceret appears once in the text file.
+primum appears once in the text file.
+eo appears once in the text file.
+ipso appears once in the text file.
+parum appears 2 times in the text file.
+vidit appears once in the text file.
+quoque appears once in the text file.
+alienum appears once in the text file.
+istuc appears once in the text file.
+dixti appears once in the text file.
+bene appears once in the text file.
+latine appears once in the text file.
+plane appears once in the text file.
+nam appears once in the text file.
+haec appears 3 times in the text file.
+erunt appears once in the text file.
+promptu appears once in the text file.
+audivi appears once in the text file.
+ante appears once in the text file.
+aggrediar appears once in the text file.
+ab appears once in the text file.
+istis appears once in the text file.
+quos appears once in the text file.
+dicis appears once in the text file.
+instructum appears once in the text file.
+videro appears once in the text file.
+fatebuntur appears once in the text file.
+stoici appears once in the text file.
+omnia appears once in the text file.
+dicta appears once in the text file.
+praeclare appears once in the text file.
+neque appears 2 times in the text file.
+eam appears once in the text file.
+causam appears once in the text file.
+zenoni appears once in the text file.
+desciscendi appears once in the text file.
+illud appears once in the text file.
+ratio appears 3 times in the text file.
+vestra appears once in the text file.
+sic appears once in the text file.
+cogit appears once in the text file.
+audissem appears once in the text file.
+antiochum appears once in the text file.
+brute appears once in the text file.
+solebam appears once in the text file.
+callida appears once in the text file.
+optime appears once in the text file.
+possit appears once in the text file.
+architectari appears once in the text file.
+voluptates appears once in the text file.
+idemne appears once in the text file.
+iucunde appears once in the text file.
+videtur appears once in the text file.
+delicatior appears once in the text file.
+dicam appears once in the text file.
+molliorque appears once in the text file.
+virtutis appears once in the text file.
+vis appears once in the text file.
+gravitasque appears once in the text file.
+postulat appears once in the text file.
+quoniam appears once in the text file.
+advesperascit appears once in the text file.
+villam appears once in the text file.
+revertendum appears once in the text file.
+nunc appears 2 times in the text file.
+hactenus appears once in the text file.
+naturam appears once in the text file.
+apta appears once in the text file.
+vera appears once in the text file.
+summa appears once in the text file.
+lex appears once in the text file.
+philosophis appears once in the text file.
+solum appears once in the text file.
+communia appears once in the text file.
+paria appears once in the text file.
+dixerunt appears once in the text file.
+agimus appears once in the text file.
+mene appears once in the text file.
+
+non is the word with the highest count.
